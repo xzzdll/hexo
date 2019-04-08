@@ -76,7 +76,7 @@ console.log(demo([6, 5, 4, 3, 2, 1]))
 ```javascript
 function demo(arr) {
   for (var q = 0; q < arr.length; q++) {
-    for (var i = 0; i < arr.length; i++) {
+    for (var i = 0; i < arr.length -1 - q; i++) {
       if (arr[i] < arr[i + 1]) {
         var tmp = arr[i + 1]
         arr[i + 1] = arr[i]
