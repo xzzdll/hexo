@@ -1,6 +1,6 @@
 ---
 title: Vue中的 nextTick实现
-categories: css
+categories: javascript
 # tags: [javascript]
 ---
 
