@@ -1,6 +1,6 @@
 ---
 title: javascript执行上下文和执行栈
-categories: js
+categories: javascript
 # tags: [javascript]
 ---
 
