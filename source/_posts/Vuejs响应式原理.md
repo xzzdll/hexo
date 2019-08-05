@@ -1,6 +1,6 @@
 ---
 title: VueJS响应式原理
-categories: javascript
+categories: vue
 # tags: [javascript]
 ---
 

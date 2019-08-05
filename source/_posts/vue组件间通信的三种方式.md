@@ -1,6 +1,6 @@
 ---
 title: vue组件间通信的三种方式
-categories: javascript
+categories: vue
 # tags: [javascript]
 ---
 
