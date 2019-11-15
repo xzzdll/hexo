@@ -11,5 +11,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://xzzdll.cn/sitemap.xml
-Sitemap: http://xzzdll.cn/baidusitemap.xml
+Sitemap: http://johnzz.top/sitemap.xml
+Sitemap: http://johnzz.top/baidusitemap.xml
